@@ -47,7 +47,7 @@ There are no known bugs as of now.
 
 ## Live link
 
-Live link: [BlogPool live link](https://thestrange-blog.herokuapp.com/)
+Live link: [live link](https://thestrange-blog.herokuapp.com/)
 
 
 ## Support
