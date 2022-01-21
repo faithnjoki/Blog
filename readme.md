@@ -44,8 +44,11 @@ $ source virtual/bin/activate
 ## Known bugs
 There are no known bugs as of now.
 
-## Link to live site
-https://thestrange-blog.herokuapp.com/
+
+## Live link
+
+Live link: [BlogPool live link](https://thestrange-blog.herokuapp.com/)
+
 
 ## Support
 For any questions, troubleshooting or contributions, 
