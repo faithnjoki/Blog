@@ -45,7 +45,7 @@ $ source virtual/bin/activate
 There are no known bugs as of now.
 
 ## Link to live site
-https://quote-flow.herokuapp.com/
+https://thestrange-blog.herokuapp.com/
 
 ## Support
 For any questions, troubleshooting or contributions, 
